@@ -1,42 +1,28 @@
 # Salom, men Behruzbek! 👋
 ### Junior Front-End dasturchi | Full-Stack bo'lish yo'lida 🚀
 
-<div align="center">
-  <img src="https://vercel.app" alt="Behruzbek's Card" />
-</div>
-
 ---
 
 ### 💻 Men haqimda
 - 🎓 **Hozirda:** Portfoliom ustida ishlayapman va yangi bilimlarni egallayapman.
 - 🎯 **Mening maqsadim:** Kuchli **Full-Stack** dasturchi bo'lish!
-- 🏅 **Qiziqishlarim:** Ochiq manbali loyihalar (Open Source) va GitHub nishonlarini (badges) yig'ish.
+- 🏅 **Qiziqishlarim:** Ochiq manbali loyihalar va GitHub nishonlarini (badges) yig'ish.
 
 ---
 
 ### 🛠️ Texnologiyalar va Instrumentlar
 <p align="left">
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://vectorlogo.zone" alt="git" width="40" height="40"/>
-  </a>
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Git" />
 </p>
 
 ---
 
-### 📊 Mening Jonli GitHub Statistikam
-
-<p align="center">
-  <img src="https://vercel.app" alt="behruzbekjs's GitHub stats" /><br/><br/>
-  <img src="https://herokuapp.com" alt="behruzbekjs's git streak" />
+### 📊 Mening GitHub Statistikam
+<p align="left">
+  <img src="https://allthethings.id" alt="Behruzbek's GitHub Stats" />
 </p>
 
 ---
