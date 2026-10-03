@@ -1,16 +1,45 @@
-## Hi there 👋
+# Salom, men Behruzbek! 👋
+### Junior Front-End dasturchi | Full-Stack bo'lish yo'lida 🚀
 
-<!--
-**behruzbekjs/behruzbekjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://vercel.app" alt="Behruzbek's Card" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Men haqimda
+- 🎓 **Hozirda:** Portfoliom ustida ishlayapman va yangi bilimlarni egallayapman.
+- 🎯 **Mening maqsadim:** Kuchli **Full-Stack** dasturchi bo'lish!
+- 🏅 **Qiziqishlarim:** Ochiq manbali loyihalar (Open Source) va GitHub nishonlarini (badges) yig'ish.
+
+---
+
+### 🛠️ Texnologiyalar va Instrumentlar
+<p align="left">
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://vectorlogo.zone" alt="git" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 📊 Mening Jonli GitHub Statistikam
+
+<p align="center">
+  <img src="https://vercel.app" alt="behruzbekjs's GitHub stats" /><br/><br/>
+  <img src="https://herokuapp.com" alt="behruzbekjs's git streak" />
+</p>
+
+---
+
+### 📬 Men bilan bog'lanish:
+- 📱 Telegram: [Zevarjon Narmetova](https://t.me)
