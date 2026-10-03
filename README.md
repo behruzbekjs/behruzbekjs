@@ -42,4 +42,4 @@
 ---
 
 ### 📬 Men bilan bog'lanish:
-- 📱 Telegram: [Zevarjon Narmetova](https://t.me)
+- 📱 Telegram: [Behruzbek Madiyarov](https://t.me/behruzbek_madiyarov)
