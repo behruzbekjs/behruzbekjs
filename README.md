@@ -1,29 +1,26 @@
 # Salom, men Behruzbek! 👋
-### Junior Front-End dasturchi | Full-Stack bo'lish yo'lida 🚀
+### 👨‍💻 Junior Front-End dasturchi | Full-Stack bo'lish yo'lida 🚀
 
 ---
 
 ### 💻 Men haqimda
-- 🎓 **Hozirda:** Portfoliom ustida ishlayapman va yangi bilimlarni egallayapman.
-- 🎯 **Mening maqsadim:** Kuchli **Full-Stack** dasturchi bo'lish!
-- 🏅 **Qiziqishlarim:** Ochiq manbali loyihalar va GitHub nishonlarini (badges) yig'ish.
+- 🎓 **Hozirda:** Portfoliom ustida mukammal tarzda ishlaganman va yangi bilimlarni egallayapman.
+- 🎯 **Mening maqsadim:** Kuchli **Full-Stack** dasturchi bo'lish! Yirik qiymati 1000$-5000$ qiymatli loyihlarda qatnashish!
+- 🏅 **Qiziqishlarim:** Ochiq manbali loyihalar (Open Source) va GitHub nishonlarini (badges) yig'ish.Va Githubda mukammal tarzda ishlashni o'rganish
 
 ---
 
 ### 🛠️ Texnologiyalar va Instrumentlar
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Git" />
-</p>
+- 🌐 **HTML5**
+- 🎨 **CSS3**
+- ⚡ **JavaScript (ES6+)**
+- ⚙️ **Git & GitHub**
 
 ---
 
-### 📊 Mening GitHub Statistikam
-<p align="left">
-  <img src="https://allthethings.id" alt="Behruzbek's GitHub Stats" />
-</p>
+### 📊 Mening Jonli GitHub Statistikam
+- 📈 **Harakatlar:** Har kuni yangi kod yozish va tajriba orttirish
+- 🦈 **Nishonlar:** GitHub Pull Shark challenge doirasida nishonlar darajasini ko'tarish
 
 ---
 
